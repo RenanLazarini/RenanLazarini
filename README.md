@@ -8,12 +8,18 @@ KPIs de Vendas, Financeiro e NPS
 Excel avançado
 SQL Básico (Em evolução)
 
+
+Acesse meu repositório de Python: https://github.com/RenanLazarini/Python
+Acesse meu repositório de Power BI: https://github.com/RenanLazarini/PowerBI
+
+
 Projetos em Destaque
 
 Automação e ETL com Python
 Manipulação de dados e automação de processos para análise.
 Foco: Uso de bibliotecas para limpeza e estruturação de bases de dados.
 Aplicação: Redução de trabalho manual no tratamento de dados brutos antes da visualização.
+
 
 Relatório Analítico de Vendas Multipáginas
 Dashboards focados em todo o conjunto de negócio desde vendas a colaboradores, lojas, campanhas e estoque de produtos.
