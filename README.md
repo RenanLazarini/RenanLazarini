@@ -2,11 +2,11 @@ Renan Lazarini | Dados & BI
 Analista focado em converter dados em indicadores de negócio. Uso Python para automação/ETL e Power BI para dashboards analíticos com foco em UX e tomada de decisão.
 
 Ferramentas:
-Power BI (DAX, Star Schema, Power Query)
-Python (Pandas, NumPy, Automação)
-KPIs de Vendas, Financeiro e NPS
-Excel avançado
-SQL Básico a Intermediário
+Power BI (DAX, Star Schema, Power Query) /
+Python (Pandas, NumPy, Automação) /
+KPIs de Vendas, Financeiro e NPS /
+Excel avançado /
+SQL Básico a Intermediário /
 
 
 Acesse meu repositório de Python: https://github.com/RenanLazarini/Python
