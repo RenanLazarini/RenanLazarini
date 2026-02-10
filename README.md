@@ -6,7 +6,7 @@ Power BI (DAX, Star Schema, Power Query)
 Python (Pandas, NumPy, Automação)
 KPIs de Vendas, Financeiro e NPS
 Excel avançado
-SQL Básico (Em evolução)
+SQL Básico a Intermediário
 
 
 Acesse meu repositório de Python: https://github.com/RenanLazarini/Python
